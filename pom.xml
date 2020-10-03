@@ -4,7 +4,7 @@
   <groupId>com.javatpoint</groupId>
   <artifactId>SpringMVCPagination</artifactId>
   <packaging>war</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <name>SpringMVCPagination Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
